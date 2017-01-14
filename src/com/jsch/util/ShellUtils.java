@@ -1,6 +1,7 @@
 package com.jsch.util;
 
 import java.io.BufferedReader;
+import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -40,7 +41,7 @@ public class ShellUtils {
 				channel = session.openChannel("exec");
 				((ChannelExec) channel).setCommand(command);
 
-				channel.setInputStream(null);
+				channel.setInputStream(new ByteArrayInputStream(passwd.getBytes()));
 				((ChannelExec) channel).setErrStream(System.err);
 
 				channel.connect();
@@ -74,7 +75,7 @@ public class ShellUtils {
 	}
 
 	public static void main(String[] args) throws Exception {
-		System.out.println(execCmd("lsb_release", "root", "PowerfulWebVillageSale23", "139.129.22.180"));
+		System.out.println(execCmd("echo hello && lsb_release -a ", "root", "", "139.129.22.180"));
 	}
 
 }
