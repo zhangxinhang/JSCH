@@ -1,0 +1,167 @@
+"10.23.1.100","aqz1@paoa","anquanzu","SSH-1.99-Comware-5.20","
+******************************************************************************
+* Copyright (c) 2004-2015 Hangzhou H3C Tech. Co., Ltd. All rights reserved.  *
+* Without the owner's prior written consent,                                 *
+* no decompiling or reverse-engineering shall be allowed.                    *
+******************************************************************************
+
+<SQ_SZ_XH_17F_10.23.1.100>su
+User privilege level is 3, and only those commands can be used 
+whose level is equal or less than this.
+Privilege note: 0-VISIT, 1-MONITOR, 2-SYSTEM, 3-MANAGE
+<SQ_SZ_XH_17F_10.23.1.100>anquanzu
+                          ^
+ % Unrecognized command found at '^' position.
+<SQ_SZ_XH_17F_10.23.1.100>dis ver
+H3C Comware Platform Software
+Comware Software, Version 5.20, Release 2221P09
+Copyright (c) 2004-2015 Hangzhou H3C Tech. Co., Ltd. All rights reserved.
+H3C S5500-52C-PWR-EI uptime is 83 weeks, 4 days, 18 hours, 36 minutes
+
+H3C S5500-52C-PWR-EI with 1 Processor
+256M    bytes SDRAM
+32768K  bytes Flash Memory
+
+Hardware Version is REV.C
+CPLD Version is 002
+Bootrom Version is 721
+[SubSlot 0] 48GE+4SFP+POE Hardware Version is REV.C
+[SubSlot 1] 2 CX4 Hardware Version is REV.A
+
+<SQ_SZ_XH_17F_10.23.1.100>"
+"10.16.198.69","aqz1@paoa","anquanzu","SSH-1.99-VRP-3.3","
+********************************************************************************
+*  Copyright(c) 2004-2013 Hangzhou H3C Tech. Co., Ltd. All rights reserved.    *
+*  Without the owner's prior written consent,                                  *
+*  no decompiling or reverse-engineering shall be allowed.                     *
+********************************************************************************
+
+<SQ_SZ_BGL_07FE_10.16.198.69>su
+User privilege level is 3, and only those commands can be used 
+whose level is equal or less than this.
+Privilege note: 0-VISIT, 1-MONITOR, 2-SYSTEM, 3-MANAGE
+<SQ_SZ_BGL_07FE_10.16.198.69>
+%Jan 15 12:58:17:438 2017 SQ_SZ_BGL_07FE_10.16.198.69 SHELL/5/LOGIN:- 1 - aqz1@paoa(10.50.141.4) in unit1 loginanquanzu
+                             ^
+ % Unrecognized command found at '^' position.
+<SQ_SZ_BGL_07FE_10.16.198.69>dis ver
+H3C Comware Platform Software
+Comware Software, Version 3.10, Release 1702P44
+Copyright (c) 2004-2013 Hangzhou H3C Technologies Co., Ltd. All rights reserved.
+H3C S3600-52P-PWR-EI uptime is 96 weeks, 3 days, 13 hours, 3 minutes
+
+H3C S3600-52P-PWR-EI with 1 Processor
+64M     bytes DRAM
+16384K  bytes Flash Memory
+Config Register points to FLASH
+
+Software Encryption Mode is 3DES
+Hardware Version is REV.B 
+CPLD Version is CPLD 002
+Bootrom Version is 606
+[Subslot 0] 48 FE Hardware Version is REV.B 
+[Subslot 1] 4 GE  Hardware Version is REV.B 
+
+<SQ_SZ_BGL_07FE_10.16.198.69>"
+"10.16.198.7","aqz1@paoa","anquanzu","SSH-1.99-VRP-3.3","
+********************************************************************************
+*  Copyright(c) 2004-2013 Hangzhou H3C Tech. Co., Ltd. All rights reserved.    *
+*  Without the owner's prior written consent,                                  *
+*  no decompiling or reverse-engineering shall be allowed.                     *
+********************************************************************************
+
+<SQ_SZ_BGL_Floor_10.16.198.7>su
+User privilege level is 3, and only those commands can be used 
+whose level is equal or less than this.
+Privilege note: 0-VISIT, 1-MONITOR, 2-SYSTEM, 3-MANAGE
+<SQ_SZ_BGL_Floor_10.16.198.7>
+%Jan 15 04:58:24:425 2017 SQ_SZ_BGL_Floor_10.16.198.7 SHELL/5/LOGIN:- 1 - aqz1@paoa(10.50.141.4) in unit1 loginanquanzu
+                             ^
+ % Unrecognized command found at '^' position.
+<SQ_SZ_BGL_Floor_10.16.198.7>dis ver
+H3C Comware Platform Software
+Comware Software, Version 3.10, Release 1702P44
+Copyright (c) 2004-2013 Hangzhou H3C Technologies Co., Ltd. All rights reserved.
+H3C S3600-52P-PWR-EI uptime is 7 weeks, 5 days, 22 hours, 35 minutes
+
+H3C S3600-52P-PWR-EI with 1 Processor
+64M     bytes DRAM
+16384K  bytes Flash Memory
+Config Register points to FLASH
+
+Software Encryption Mode is 3DES
+Hardware Version is REV.B 
+CPLD Version is CPLD 002
+Bootrom Version is 606
+[Subslot 0] 48 FE Hardware Version is REV.B 
+[Subslot 1] 4 GE  Hardware Version is REV.B 
+
+<SQ_SZ_BGL_Floor_10.16.198.7>"
+"10.16.198.70","aqz1@paoa","anquanzu","SSH-1.99-VRP-3.3","
+********************************************************************************
+*  Copyright(c) 2004-2013 Hangzhou H3C Tech. Co., Ltd. All rights reserved.    *
+*  Without the owner's prior written consent,                                  *
+*  no decompiling or reverse-engineering shall be allowed.                     *
+********************************************************************************
+
+<SQ_SZ_BGL_07FE_10.16.198.70>su
+User privilege level is 3, and only those commands can be used 
+whose level is equal or less than this.
+Privilege note: 0-VISIT, 1-MONITOR, 2-SYSTEM, 3-MANAGE
+<SQ_SZ_BGL_07FE_10.16.198.70>
+%Jan 15 12:58:31:523 2017 SQ_SZ_BGL_07FE_10.16.198.70 SHELL/5/LOGIN:- 1 - aqz1@paoa(10.50.141.4) in unit1 loginanquanzu
+                             ^
+ % Unrecognized command found at '^' position.
+<SQ_SZ_BGL_07FE_10.16.198.70>dis ver
+H3C Comware Platform Software
+Comware Software, Version 3.10, Release 1702P44
+Copyright (c) 2004-2013 Hangzhou H3C Technologies Co., Ltd. All rights reserved.
+H3C S3600-52P-PWR-EI uptime is 96 weeks, 3 days, 13 hours, 4 minutes
+
+H3C S3600-52P-PWR-EI with 1 Processor
+64M     bytes DRAM
+16384K  bytes Flash Memory
+Config Register points to FLASH
+
+Software Encryption Mode is 3DES
+Hardware Version is REV.B 
+CPLD Version is CPLD 002
+Bootrom Version is 606
+[Subslot 0] 48 FE Hardware Version is REV.B 
+[Subslot 1] 4 GE  Hardware Version is REV.B 
+
+<SQ_SZ_BGL_07FE_10.16.198.70>"
+"10.16.198.71","aqz1@paoa","anquanzu","SSH-1.99-VRP-3.3","
+********************************************************************************
+*  Copyright(c) 2004-2013 Hangzhou H3C Tech. Co., Ltd. All rights reserved.    *
+*  Without the owner's prior written consent,                                  *
+*  no decompiling or reverse-engineering shall be allowed.                     *
+********************************************************************************
+
+<SQ_SZ_BGL_07FE_10.16.198.71>su
+User privilege level is 3, and only those commands can be used 
+whose level is equal or less than this.
+Privilege note: 0-VISIT, 1-MONITOR, 2-SYSTEM, 3-MANAGE
+<SQ_SZ_BGL_07FE_10.16.198.71>
+%Jan 15 12:58:38:530 2017 SQ_SZ_BGL_07FE_10.16.198.71 SHELL/5/LOGIN:- 1 - aqz1@paoa(10.50.141.4) in unit1 loginanquanzu
+                             ^
+ % Unrecognized command found at '^' position.
+<SQ_SZ_BGL_07FE_10.16.198.71>dis ver
+H3C Comware Platform Software
+Comware Software, Version 3.10, Release 1702P44
+Copyright (c) 2004-2013 Hangzhou H3C Technologies Co., Ltd. All rights reserved.
+H3C S3600-52P-PWR-EI uptime is 96 weeks, 3 days, 13 hours, 13 minutes
+
+H3C S3600-52P-PWR-EI with 1 Processor
+64M     bytes DRAM
+16384K  bytes Flash Memory
+Config Register points to FLASH
+
+Software Encryption Mode is 3DES
+Hardware Version is REV.B 
+CPLD Version is CPLD 002
+Bootrom Version is 606
+[Subslot 0] 48 FE Hardware Version is REV.B 
+[Subslot 1] 4 GE  Hardware Version is REV.B 
+
+<SQ_SZ_BGL_07FE_10.16.198.71>"

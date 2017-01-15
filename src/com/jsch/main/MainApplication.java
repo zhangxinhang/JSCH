@@ -47,7 +47,13 @@ public class MainApplication {
 		List<String[]> list = CSVUtil.readerCSVToList(file);
 		List<String[]> outputList = new ArrayList<String[]>();
 		outputList.add(new String[] { "host", "username", "password", "sshVersion", "version1", "version2" });
+		int size = list.size();
+		int i = 0;
+		System.out.println("***************begin:0,sum:" + size + "************************");
 		for (String[] strings : list) {
+			System.out.println("***************************************************************************");
+			System.out.println("***************begin:" + (++i) + ",sum:" + size + "***********************************************");
+			System.out.println("***************************************************************************");
 			String out = "";
 			if (strings[0] != null && !"".equals(strings[0])) {
 				String host = strings[0].trim();
